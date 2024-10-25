@@ -1,6 +1,8 @@
 # Install necessary packages if not already installed
 #install.packages("ggplot2")
 
+source("scripts/requirements.R")
+
 # Load the required package
 library(ggplot2)
 
